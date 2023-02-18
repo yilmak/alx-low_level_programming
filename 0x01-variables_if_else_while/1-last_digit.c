@@ -1,6 +1,6 @@
-#include <stdiob.h>
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
  * main -printsa text according to  numbers
