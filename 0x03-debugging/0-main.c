@@ -4,10 +4,10 @@
  * main - tests function which prints positive or negative integers
  * Return: Always 0.
  */
-
 int main(void)
 
 {
+
 	int i;
 
 	i = 0;
