@@ -12,7 +12,7 @@ int main(void)
 
 	long n, maxf;
 	long number = 612852475143;
-	double sqaure = sqrt(number);
+	double square = sqrt(number);
 
 	for (n = 1; n <= square; n++)
 	{
