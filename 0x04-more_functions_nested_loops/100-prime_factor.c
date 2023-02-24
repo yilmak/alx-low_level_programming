@@ -9,7 +9,8 @@
 int main(void)
 
 {
-	long n, max;
+
+	long n, maxf;
 	long number = 612852475143;
 	double sqaure = sqrt(number);
 
