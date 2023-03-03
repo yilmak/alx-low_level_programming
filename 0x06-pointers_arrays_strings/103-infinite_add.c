@@ -1,3 +1,5 @@
+#include "main.h"
+#include <stdio.h>
 
 {
 	int overflow = 0, i = 0, j = 0, digits = 0;
